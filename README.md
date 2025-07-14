@@ -1,1 +1,1 @@
-# codealpha_EducationalPerformanceAndResourceAllocation
+# EducationalPerformanceAndResourceAllocation
